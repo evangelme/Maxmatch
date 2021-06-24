@@ -1,0 +1,10 @@
+{
+  "name": "angular-electron",
+  "version": "10.0.1",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+    "@electron/remote": "1.0.4",
+    "update-electron-app": "^2.0.1"
+  }
+}
